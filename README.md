@@ -61,3 +61,4 @@ Check them in Vercel → Project → **Settings → Cron Jobs**.
 - Prices are the lowest found on Google Flights at the time of checking and may differ when booking.
 - Budget fares may not include checked baggage; the site says so and lets users add a baggage cost.
 - Vercel's free Hobby plan is for non-commercial use. If you later add affiliate links, review Vercel's terms.
+Live on Vercel.
